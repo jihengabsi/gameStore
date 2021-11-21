@@ -1,0 +1,4 @@
+#Sat Nov 13 00:35:33 WAT 2021
+base.0=E\:\\9raya\\flutter\\gamestore\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
